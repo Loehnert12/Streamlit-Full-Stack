@@ -5,6 +5,7 @@ st.set_page_config(page_title = "Date Difference Calulator")
 
 st.header("This is my basic application!")
 st.subheader("Lets figure out a day difference calculation.")
+st.write("NOTE: If you select 01/01/2025 as a start date and 01/15/2025 as the end date, that is only 14 days NOT 15 days")
 
 st.header("Select your starting date.")
 
